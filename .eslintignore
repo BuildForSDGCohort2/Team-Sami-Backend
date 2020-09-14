@@ -1,8 +1,10 @@
-node_modules
+node_modules/
+npm-debug.log
+.vscode/**
+.nyc_output/
+coverage
 build
-docs
-docker
-test
-.vscode
-koa/views
-src/generated
+src/models
+src/migrations
+src/config
+src/seeders
