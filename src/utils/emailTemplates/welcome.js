@@ -169,7 +169,7 @@ const welcome = (data) => {
                                                                                 </tr>
                                                                                 <tr>
                                                                                     <td class="esd-block-text es-m-txt-l es-p20t es-p15b es-p30r es-p30l" bgcolor="#ffffff" align="left">
-                                                                                        <p>If you have any questions, just reply to ths email--we're always happy to help out.<br><br>Cheers,<br>DBullsSquad&nbsp;Team</p>
+                                                                                        <p>If you have any questions, just reply to ths email--we're always happy to help out.<br><br>Cheers,<br>The JosWearIt Team</p>
                                                                                     </td>
                                                                                 </tr>
                                                                             </tbody>

@@ -6,7 +6,7 @@ const testEnvironment = !(environment === 'development' || environment === 'stag
 const productionEnvironment = (environment === 'production') || (environment === 'staging');
 let baseUrl;
 
-if (productionEnvironment) baseUrl = 'https://dbullssquad-frontend.herokuapp.com';
+if (productionEnvironment) baseUrl = 'https://joswearit.netlify.app';
 else baseUrl = 'http://localhost:5000';
 
 const googleCallbackUrl = `${baseUrl}/auth/google/callback`;
